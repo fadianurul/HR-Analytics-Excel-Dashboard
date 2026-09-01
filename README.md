@@ -1,6 +1,6 @@
 End-to-End HR Data Analytics: Employee Attendance & Payroll Monitoring System
 
-![HR Dashboard Preview](dashboard_preview.png) *(Catatan: Ganti dengan nama file screenshot dashboard Anda)*
+![HR Dashboard Preview](dashboard_preview.png)
 
 Business Overview & Problem Statement
 Perusahaan dengan **980+ karyawan** yang tersebar di 3 lokasi kantor membutuhkan visibilitas yang lebih jelas terhadap tingkat kehadiran, distribusi jam kerja produktif, efisiensi waktu lembur (*overtime*), serta potensi risiko operasional akibat keterlambatan.
