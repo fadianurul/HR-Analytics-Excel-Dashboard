@@ -1,24 +1,20 @@
-# 📊 End-to-End HR Data Analytics: Employee Attendance & Payroll Monitoring System
+End-to-End HR Data Analytics: Employee Attendance & Payroll Monitoring System
 
 ![HR Dashboard Preview](dashboard_preview.png) *(Catatan: Ganti dengan nama file screenshot dashboard Anda)*
 
-## 📌 Business Overview & Problem Statement
+Business Overview & Problem Statement
 Perusahaan dengan **980+ karyawan** yang tersebar di 3 lokasi kantor membutuhkan visibilitas yang lebih jelas terhadap tingkat kehadiran, distribusi jam kerja produktif, efisiensi waktu lembur (*overtime*), serta potensi risiko operasional akibat keterlambatan.
 
 Proyek ini bertujuan untuk menganalisis **55.374 log presensi harian** (periode Q1 2026) dan memvisualisasikannya ke dalam **Executive HR Analytics Dashboard** yang dinamis dan interaktif menggunakan Microsoft Excel.
 
----
-
-## 🔑 Key Performance Indicators (KPIs)
+Key Performance Indicators (KPIs)
 * **Total Workforce**: 980 Active Employees (10 Departments)
 * **Overall Attendance Rate**: **94.17%**
 * **Average Net Productive Hours**: **7.73 Hours / Day**
 * **Total Overtime Accumulated**: **8,308.79 Hours** (Q1 2026)
 * **Total Late Arrival Duration**: **545,903 Minutes**
 
----
-
-## 🛠️ Data Architecture & Excel Implementation
+Data Architecture & Excel Implementation
 
 File portofolio ini disusung dengan struktur relasional modular:
 
@@ -34,9 +30,7 @@ File portofolio ini disusung dengan struktur relasional modular:
 * **Data Modeling & Pivot Tables**: Pivot Cache Optimization & Cross-Filtering
 * **Interactive UI**: Multi-Slicer (Department, Office Location, Work Mode), Dynamic Conditional Formatting, Gridline Removal Layout.
 
----
-
-## 📈 Key Insights & Recommendations
+Key Insights & Recommendations
 
 1. **Overtime Concentration**:
    * Departemen **Engineering** menyumbang beban lembur tertinggi (**3,490 Jam**), disusul oleh **Sales** (**1,370 Jam**).
@@ -46,9 +40,7 @@ File portofolio ini disusung dengan struktur relasional modular:
    * Rata-rata kehadiran berada pada tingkat sehat (**94.17%**).
    * *Rekomendasi*: Fleksibilitas *Work From Home (WFH)* dan *Work From Office (WFO)* dapat dipertahankan karena tidak berdampak negatif secara signifikan terhadap *Net Productive Hours* (rata-rata 7.73 jam/hari).
 
----
-
-## 📁 How to View the Project
+How to View the Project
 1. Download file `Dashoard KPI HR.xlsx` dari repositori ini.
 2. Buka menggunakan Microsoft Excel (versi 2019 atau versi terbarunya direkomendasikan).
 3. Gunakan tombol **Slicer** pada sheet `Dashboard_KPI` untuk menyaring data berdasarkan *Office Location*, *Department*, atau *Work Mode*.
